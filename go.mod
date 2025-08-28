@@ -1,4 +1,4 @@
-module github.com/samber/slog-http
+module github.com/dianlight/slog-http
 
 go 1.21
 
